@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/neoribello/json_the_cat#readme",
   "dependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.3.0",
     "request": "^2.88.2"
   }
 }
